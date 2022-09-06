@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n | lacta >> lacta
+echo -en '| tail -lines = l iacta' >> iacta
